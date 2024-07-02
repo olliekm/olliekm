@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Sapien and [![Machine Learning Specialization
+🔭 I’m currently working on Sapien and [Machine Learning Specialization
 ](https://www.coursera.org/specializations/machine-learning-introduction#courses)  <br>🌱 I’m currently learning reinforcement learning and its applications in finance<br>⚡ Fun fact I have a cat 
 
 
