@@ -1,2 +1,2 @@
 # About Me:
-🔭 I’m currently working on ML infrastructure and development pipelines
+🔭 I’m currently working on ML infrastructure and distributed systems
