@@ -1,6 +1,6 @@
 # Hi, I'm Oliver
 
-🌐 [olliekm.com](https://olliekm.com) | 💼 [LinkedIn](https://www.linkedin.com/in/oliver-kwun-morfitt) | ✉️ oliverkwunmorfitt[at]gmail.com
+oliverkwunmorfitt[at]gmail.com
 
 Third-year Computer Science and Statistics student at the University of Toronto. I like building the systems under ML and backend products: infrastructure, performance, and developer tools.
 
